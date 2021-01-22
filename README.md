@@ -1,0 +1,2 @@
+# goinstalltest
+go  install test
